@@ -5,6 +5,7 @@ int Compte::id = 1000000;
 
 Compte::Compte()
 {
+    
     Titulaire t;
     Date d;
     num_id = id+1;
